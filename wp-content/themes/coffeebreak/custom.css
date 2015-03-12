@@ -1,0 +1,16 @@
+/* 
+WOO CUSTOM STYLESHEET
+---------------------
+
+Instructions:
+
+Add your custom styles here instead of style.css so it 
+is easier to update the theme. Simply copy an existing 
+style from style.css to this file, and modify it to 
+your liking.
+
+*/
+
+#featured-callout {background: url('http://resoluteacademy.com/wp-content/themes/coffeebreak/images/featured-callout.png') top left scroll no-repeat; width: 860px; height: 46px; padding: 4px 10px; margin: 15px auto 0; }
+	#featured-callout img {float: right; margin:1px 32px 0 0; }
+	#featured-callout p {color: #fff; margin:2px 0 0 8px; padding:0; width:600px; font-size: 17px; }

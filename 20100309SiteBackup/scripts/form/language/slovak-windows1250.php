@@ -1,0 +1,31 @@
+<?php
+$aLang['The form was not submitted for the following reasons:'] = 'Formulár nebol odoslaný z dôvodu:';
+$aLang['Please click'] = 'Kliknite';
+$aLang['here'] = 'sem';
+$aLang['to return to the form and try again.'] = 'pre návrat do formulára a skúste znovu.';
+$aLang['Missing:'] = 'Chýba:';
+$aLang['Could not find online form configuration file ID='] = 'Nebolo možné nájst online konfiguracný súbor ID=';
+$aLang[' for RV SiteBuilder formmail.'] = ' pre RV SiteBuilder formmail.';
+$aLang['I NEED VALID RECIPIENT EMAIL ADDRESS'] = 'POTREBUJEM SPRÁVNE ZADANÚ EMAIL ADRESU';
+$aLang['TO CONTINUE</b>'] = 'PRE POKRACOVANIE</b>';
+$aLang['your <b>email address'] = 'vaša <b>email adresa';
+$aLang['</b> is invalid.'] = '</b> je chybná.';
+$aLang['your <b>zip/postal code</b> is invalid'] = 'vaše <b>PSC</b> je chybné';
+$aLang['your <b>phone number</b> is invalid'] = 'vaše <b>telefónne císlo</b> je chybné';
+$aLang['your <b>fax number</b> is invalid'] = 'vaše <b>faxové císlo</b> je chybné';
+$aLang['Thank you for your submission'] = 'Dakujeme za váš príspevok';
+$aLang['This form is powered by '] = 'Tento formulár prevádzkuje ';
+$aLang['Please use your browser back button to return to the form and try again.'] = 'Použite tlacidlo vášho prehliadaca pre návrat do formulára a skúste znova.';
+$aLang['This form is powered by'] = 'Tento formulár prevádzkuje';
+$aLang['You are using from a <b>banned email address.</b>'] = 'Používate <b>zakázanú emailovu adresu.</b>';
+$aLang['You are coming from an'] = 'Prihlasujete sa z';
+$aLang['You are coming from an <b>unauthorized domain.</b>'] = 'Prihlasujete sa z <b>neutorizovanej domény.</b>';
+$aLang['Spam mail detected.'] = 'Bol zistený spam mail.';
+$aLang['Your message never be sent.'] = 'Vaša správa nebola odoslaná.';
+$aLang['If you accidentally get this error, please contact us for the resolution.'] = 'Ak vidíte túto chybu, kontaktujte nás so žiadostou o riešenie.';
+$aLang['This was an INVALID submission. You have acted like a spambot!'] = 'Toto je neplatný príspevok. Javíte sa ako spam robot!';
+$aLang['Cannot connect to sendmail server'] = 'Nie je možné pripojit sa na sendmail server.';
+$aLang['Sending email from'] = 'Poslanie email od';
+$aLang['to'] = 'pre';
+$aLang['failed'] = 'zlyhalo';
+?>

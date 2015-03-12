@@ -1,0 +1,22 @@
+/*
+#******************************************************************************
+#                      WP Paypal Payment Terminal v1.0
+#
+#	Author: Convergine.com
+#	http://www.convergine.com
+#	Version: 1.0
+#	Released: March 6 2011
+#
+#******************************************************************************
+*/
+.pppt_widget_form form { padding:0; margin:0;}
+.pppt_widget_form ul#pppt_widget_form_list { list-style:none; list-style-image:none; list-style-type:none; margin-left:0; margin-right:0; padding-left:0; }
+.pppt_widget_form ul#pppt_widget_form_list li {} 
+.pppt_widget_form ul#pppt_widget_form_list li.ppptTitle {} 
+
+.pppt_widget_form input[type=text], .pppt_widget_form select, .pppt_widget_form textarea { width:90%;}
+
+/* ERROR and SUCCESS messages */
+.pppt_error { padding:3px; border:1px solid #F30; background-color:#FCEBE9; color:#F30;}
+.pppt_success {padding:3px; border:1px solid #060; background-color:#EFFDE8; color:#060;} 
+

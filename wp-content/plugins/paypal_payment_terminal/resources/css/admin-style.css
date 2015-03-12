@@ -1,0 +1,59 @@
+/*
+#******************************************************************************
+#                      WP Paypal Payment Terminal v1.0
+#
+#	Author: Convergine.com
+#	http://www.convergine.com
+#	Version: 1.0
+#	Released: March 6 2011
+#
+#******************************************************************************
+*/
+
+h2.pppt_widget_title {}
+
+
+.transactions_overview_table .table_wrapper { width:100%; border:1px dashed #666;}
+.transactions_overview_table .table_wrapper .table_header li { display:block; float:left; width:16%; text-align:left; height:30px; line-height:30px;  background-color:#E7E7E7; font-weight:bold;}
+.transactions_overview_table .table_wrapper .table_header li.lastTransColumn { display:block; float:left; width:15%; text-align:left; height:30px; line-height:30px;  background-color:#E7E7E7; font-weight:bold;}
+.transactions_overview_table .table_wrapper .table_header li.deleter, .transactions_overview_table .table_wrapper li.deleter { display:block; float:left; width:5%; text-align:left; height:30px; line-height:30px;  background-color:#E7E7E7; font-weight:bold;}
+.transactions_overview_table .table_wrapper .row_a li { background-color:#FFF; display:block; float:left; width:16%; text-align:left; height:28px; line-height:28px;}
+.transactions_overview_table .table_wrapper .row_b li { background-color:#F1F9FE; display:block; float:left; width:16%; text-align:left; height:28px; line-height:28px;}
+.transactions_overview_table .table_wrapper .row_b li.lastTransColumn, .transactions_overview_table .table_wrapper .row_a li.lastTransColumn  { display:block; float:left; width:15%; text-align:left; height:28px; line-height:28px;}
+.transactions_overview_table .table_wrapper .table_header {padding:0; margin:0; float:left; display:block; width:100%; height:30px;border-bottom:1px solid #999;}
+.transactions_overview_table .table_wrapper .row_a, .transactions_overview_table .table_wrapper .row_b { padding:0; margin:0; float:left; display:block; width:100%; height:28px;}
+.transactions_overview_table .table_wrapper .row_msg li { background-color:#FFF; display:block; float:left; width:100%; text-align:left; height:28px; line-height:28px;}
+.transactions_overview_table .table_wrapper .row_a li.deleter, .transactions_overview_table .table_wrapper .row_b li.deleter  { display:block; float:left; width:5%; text-align:left; font-weight:bold;}
+
+
+
+
+.services_table .table_wrapper { width:100%; border:1px dashed #666;}
+.services_table .table_wrapper .table_header li { display:block; float:left; width:20%; text-align:left; height:30px; line-height:30px;  background-color:#E7E7E7; font-weight:bold;}
+.services_table .table_wrapper .table_header li.lastColumn { width:55%;}
+.services_table .table_wrapper .row_a li { background-color:#FFF; display:block; float:left; width:20%; text-align:left; height:28px; line-height:28px;}
+.services_table .table_wrapper .row_b li { background-color:#F1F9FE; display:block; float:left; width:20%; text-align:left; height:28px; line-height:28px;}
+.services_table .table_wrapper .row_b li.lastColumn, .services_table .table_wrapper .row_a li.lastColumn { width:55%;}
+.services_table .table_wrapper .table_header {padding:0; margin:0; float:left; display:block; width:100%; height:30px;border-bottom:1px solid #999;}
+.services_table .table_wrapper .row_a, .services_table .table_wrapper .row_b { padding:0; margin:0; float:left; display:block; width:100%; height:28px;}
+.services_table .table_wrapper .row_msg li { background-color:#FFF; display:block; float:left; width:100%; text-align:left; height:28px; line-height:28px;}
+.services_table .table_wrapper .table_header li.deleter, .services_table .table_wrapper .row_a li.deleter, .services_table .table_wrapper .row_b li.deleter { width:5%; line-height:28px; vertical-align:middle; text-align:left; }
+
+
+
+.transactions_table .table_wrapper { width:100%; border:1px dashed #666;}
+.transactions_table .table_wrapper .table_header li { display:block; float:left; width:16%; text-align:left; height:30px; line-height:30px;  background-color:#E7E7E7; font-weight:bold;}
+.transactions_table .table_wrapper .table_header li.lastTransColumn { display:block; float:left; width:15%; text-align:left; height:30px; line-height:30px;  background-color:#E7E7E7; font-weight:bold;}
+.transactions_table .table_wrapper .table_header li.deleter, .transactions_table .table_wrapper li.deleter { display:block; float:left; width:5%; text-align:left; height:30px; line-height:30px;  background-color:#E7E7E7; font-weight:bold;}
+.transactions_table .table_wrapper .row_a li { background-color:#FFF; display:block; float:left; width:16%; text-align:left; height:28px; line-height:28px;}
+.transactions_table .table_wrapper .row_b li { background-color:#F1F9FE; display:block; float:left; width:16%; text-align:left; height:28px; line-height:28px;}
+.transactions_table .table_wrapper .row_b li.lastTransColumn, .transactions_table .table_wrapper .row_a li.lastTransColumn  { display:block; float:left; width:15%; text-align:left; height:28px; line-height:28px;}
+.transactions_table .table_wrapper .table_header {padding:0; margin:0; float:left; display:block; width:100%; height:30px;border-bottom:1px solid #999;}
+.transactions_table .table_wrapper .row_a, .transactions_table .table_wrapper .row_b { padding:0; margin:0; float:left; display:block; width:100%; height:28px;}
+.transactions_table .table_wrapper .row_msg li { background-color:#FFF; display:block; float:left; width:100%; text-align:left; height:28px; line-height:28px;}
+.transactions_table .table_wrapper .row_a li.deleter, .transactions_table .table_wrapper .row_b li.deleter  { display:block; float:left; width:5%; text-align:left; font-weight:bold;}
+
+
+
+.pretty-hover {background-color:#EAEAEA;}
+.pt_footer { text-align:right; padding-right:50px;}

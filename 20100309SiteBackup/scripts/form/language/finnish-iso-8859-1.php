@@ -1,0 +1,31 @@
+<?php
+$aLang['The form was not submitted for the following reasons:'] = 'Lomaketta ei lähetetty seuraavien syiden vuoksi:';
+$aLang['Please click'] = 'Napsauta';
+$aLang['here'] = 'tästä';
+$aLang['to return to the form and try again.'] = 'palataksesi lomakkeelle ja yrittämään uudelleen.';
+$aLang['Missing:'] = 'Puuttuvat:';
+$aLang['Could not find online form configuration file ID='] = 'Online-lomakkeen asetustiedostoa ei löytynyt, ID=';
+$aLang[' for RV SiteBuilder formmail.'] = ' RVSiteBuilderin formmail-skriptille.';
+$aLang['I NEED VALID RECIPIENT EMAIL ADDRESS'] = 'Tarvitaan kelvollinen vastaanottaja sähköpostiosoite';
+$aLang['TO CONTINUE</b>'] = 'jatkaaksesi</b>';
+$aLang['your <b>email address'] = '<b>sähköpostiosoitteesi';
+$aLang['</b> is invalid.'] = '</b> on epäkelpo.';
+$aLang['your <b>zip/postal code</b> is invalid'] = '<b>postinumero</b> on eppäkelpo';
+$aLang['your <b>phone number</b> is invalid'] = '<b>puhelinnumero</b> on epäkelpo';
+$aLang['your <b>fax number</b> is invalid'] = '<b>faksinumero</b> on epäkelpo';
+$aLang['Thank you for your submission'] = 'Kiitos lähettämisestä';
+$aLang['This form is powered by '] = 'Lomakkeen alustana toimii ';
+$aLang['Please use your browser back button to return to the form and try again.'] = 'Käytä selaimen takaisin-painiketta palataksesi lomakkeelle ja yritttääksesi uudelleen.';
+$aLang['This form is powered by'] = 'Lomakkeen alustana toimii';
+$aLang['You are using from a <b>banned email address.</b>'] = 'Käytät <b>estettyä sähköpostiosoitetta.</b>';
+$aLang['You are coming from an'] = 'Olet tulossa';
+$aLang['You are coming from an <b>unauthorized domain.</b>'] = 'Olet tulossa <b>sallimattomasta domainista.</b>';
+$aLang['Spam mail detected.'] = 'Roskaposti havaittu.';
+$aLang['Your message never be sent.'] = 'Viestiäsi ei lähetetty.';
+$aLang['If you accidentally get this error, please contact us for the resolution.'] = 'Jos sait virheen vahingossa, ota yhteyttä meihin tilanteen selvittämiseksi.';
+$aLang['This was an INVALID submission. You have acted like a spambot!'] = 'Lähetys oli epäkelpo ja se muistutti spambotteja!';
+$aLang['Cannot connect to sendmail server'] = 'Ei voida yhdistää sendmail-palvelimeen.';
+$aLang['Sending email from'] = 'Sähköpostin lähettäminen osoitteesta';
+$aLang['to'] = 'osoitteeseen';
+$aLang['failed'] = 'epäonnistui';
+?>

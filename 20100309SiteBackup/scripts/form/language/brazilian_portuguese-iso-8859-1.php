@@ -1,0 +1,31 @@
+<?php
+$aLang['The form was not submitted for the following reasons:'] = 'The form was not submitted for the following reasons:';
+$aLang['Please click'] = 'Please click';
+$aLang['here'] = 'here';
+$aLang['to return to the form and try again.'] = 'to return to the form and try again.';
+$aLang['Missing:'] = 'Missing:';
+$aLang['Could not find online form configuration file ID='] = 'Não foi possível encontrar o formulário on-line arquivo de configuração ID =';
+$aLang[' for RV SiteBuilder formmail.'] = ' RV criação de formulário de email.';
+$aLang['I NEED VALID RECIPIENT EMAIL ADDRESS'] = 'É preciso de um endereço de e-mail(destinatário) válido';
+$aLang['TO CONTINUE</b>'] = 'Continuar</b>';
+$aLang['your <b>email address'] = 'seu <b>endereço de e-mail';
+$aLang['</b> is invalid.'] = '</b> é inválido.';
+$aLang['your <b>zip/postal code</b> is invalid'] = 'seu <b>código zip/postal</b> é inválido';
+$aLang['your <b>phone number</b> is invalid'] = 'seu <b>telefone</b> é inválido';
+$aLang['your <b>fax number</b> is invalid'] = 'seu <b>fax</b> é inválido';
+$aLang['Thank you for your submission'] = 'Obrigado pela sua apresentação';
+$aLang['This form is powered by '] = 'Este formulário foi criado por ';
+$aLang['Please use your browser back button to return to the form and try again.'] = 'Por favor, use o botão VOLTAR no seu navegador para retornar ao formulário e tente novamente.';
+$aLang['This form is powered by'] = 'Este formulário foi criado por';
+$aLang['You are using from a <b>banned email address.</b>'] = 'Você está usando um <b>endereço de e-mail proibido.</b>';
+$aLang['You are coming from an'] = 'Você é proveniente de uma';
+$aLang['You are coming from an <b>unauthorized domain.</b>'] = 'Você é proveniente de um <b>domínio não autorizado.</b>';
+$aLang['Spam mail detected.'] = 'E-mail de tipo SPAM foi detectado.';
+$aLang['Your message never be sent.'] = 'Sua mensagem nunca foi enviada.';
+$aLang['If you accidentally get this error, please contact us for the resolution.'] = 'Se você receber esta mensagem de erro, por favor contacte-nos para a resolução.';
+$aLang['This was an INVALID submission. You have acted like a spambot!'] = 'Esta apresentação foi invalida. Você está sendo reconhecido como um spambot!';
+$aLang['Cannot connect to sendmail server'] = 'Não é possível conectar ao servidor de e-mail.';
+$aLang['Sending email from'] = 'Enviando e-mail';
+$aLang['to'] = 'para';
+$aLang['failed'] = 'falha';
+?>

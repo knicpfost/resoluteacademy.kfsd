@@ -1,0 +1,11 @@
+<table cellpadding="0" cellspacing="0" width="100%"><tr><td>    <script type="text/javascript">        var SubjectLine='%3ECheck out the%3C '+top.document.title+'';        var BodyText='%3EI thought you might be interested in the%3C '+top.document.title+' %3EYou can view it at%3C '+top.location.href+'';        var Message    = '<A CLASS=contact HREF="mailto:?SUBJECT='+SubjectLine+'&BODY='+BodyText+'">'+'<input type="image" src="http://resoluteacademy.com/images/pfbe.gif" title="Email a Page to a Friend" alt="Email a Page to a Friend"></A>';         var MessageIE = '<a href="mailto:?SUBJECT='+SubjectLine+'&BODY='+BodyText+'">'+'        <image src="http://resoluteacademy.com/images/pfbe.gif" title="Email a Page to a Friend" alt="Email a Page to a Friend" width="22" height="22"  hspace="4" style="cursor:pointer" border="0">        '+'</a>';
+                                        if(document.all) { document.write(MessageIE); }
+                                        else { document.write(Message); };          
+                                   </script></td><td><input type="image" src="http://resoluteacademy.com/images/ppbe.gif" width="22" height="22" hspace="4" title="Print this page" alt="Print this page" onClick="window.print();return false;"></td><td><input type="image" src="http://resoluteacademy.com/images/afbe.gif" width="22" height="22"  hspace="4" title="Add to Favorite" alt="Add to Favorite"onClick="
+            if(window.sidebar){
+                 window.sidebar.addPanel(document.title,location.href,'');
+             }else if(window.external){
+                 window.external.AddFavorite(location.href,document.title);
+             }else if(window.opera&&window.print)    { 
+                     return true; 
+             }"></td></tr></table>
